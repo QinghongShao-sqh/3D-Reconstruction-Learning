@@ -13,6 +13,6 @@ https://github.com/KEXA1/3D-Reconstruction-Learning/releases/tag/PreVR
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/c40b6540106546328bfdd3c5ecef427f.jpeg)
 
 ### 元宇宙的初认识以及未来（2023/3/5）
-https://github.com/KEXA1/3D-Reconstruction-Learning/releases/tag/PrMeta
+https://github.com/KEXA1/3D-Reconstruction-Learning/releases/tag/PreMeta
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/15c743efdf884cc3b341c96f855086ea.png)
 
